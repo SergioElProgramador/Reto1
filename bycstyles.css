@@ -1,0 +1,30 @@
+body {
+    background-color: rgba(240, 210, 80, 0.603);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(158, 71, 9);
+    background-color: rgb(24, 27, 9);
+}
+
+a {
+    color: rgb(121, 81, 7);
+    text-decoration: none;
+    font-size: 150%;
+}
+
+a:hover {
+    color: rgb(32, 126, 13);
+}
+
+h2 {
+    text-align: center;
+}
+
+table {
+    background-color: rgb(136, 98, 26);
+}
+
+
+    
